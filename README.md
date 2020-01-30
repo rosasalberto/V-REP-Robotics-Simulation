@@ -30,3 +30,15 @@ Click image to see the video.
 The agent has to fight against other agent. First robot to get out from the black line lose. 
 Implemented a custom modified Braitenberg algorithm to orient the agent and go against the rival.
 The Lua implementation is available on the simulator script Pioneer_p3dx.
+
+
+# How to run the simulations.
+
+    To simulate maze_solver and sumo_battle just open the environment/simulator and run the file.
+
+    To simulate line_follower_avoiding_obstacle:
+     1. Open the environment/simulator
+     2. Install numpy dependency
+     3. Make sure you have the correct dll for your OS in vrep_api folder.
+     4. Run main.py
+
