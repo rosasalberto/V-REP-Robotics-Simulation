@@ -18,7 +18,7 @@ Click the image to see the video.
 
 [![Youtube video](https://github.com/rosasalberto/V-REP-Robotics-Simulation/blob/master/images/_maze_solver.PNG)](https://www.youtube.com/watch?v=3Ijwl4Uje7I)
 
-The agent has to solve the maze. Implemented the right-hand rule, the agent follows the right wall until arriving at the end of the maze. This implementation does all mazes.  
+The agent has to solve the maze. Implemented the right-hand rule, the agent follows the right wall until arriving at the end of the maze. This implementation does not solve all the mazes.  
 The Lua implementation is available on the simulator script Pioneer_p3dx.
 
 ## **Sumo Battle**
